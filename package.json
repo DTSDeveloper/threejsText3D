@@ -1,0 +1,14 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "certbot": "^5.0.3",
+    "express": "^4.17.2",
+    "socket.io": "^4.4.1",
+    "three": "^0.137.5",
+    "treejs": "^0.6.2"
+  }
+}
